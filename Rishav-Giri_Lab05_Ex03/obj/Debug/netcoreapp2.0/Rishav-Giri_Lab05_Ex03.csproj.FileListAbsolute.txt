@@ -1,0 +1,10 @@
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex03\obj\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex03.csproj.CoreCompileInputs.cache
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex03\obj\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex03.AssemblyInfoInputs.cache
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex03\obj\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex03.AssemblyInfo.cs
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex03\bin\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex03.deps.json
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex03\bin\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex03.runtimeconfig.json
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex03\bin\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex03.runtimeconfig.dev.json
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex03\bin\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex03.dll
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex03\bin\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex03.pdb
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex03\obj\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex03.dll
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex03\obj\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex03.pdb

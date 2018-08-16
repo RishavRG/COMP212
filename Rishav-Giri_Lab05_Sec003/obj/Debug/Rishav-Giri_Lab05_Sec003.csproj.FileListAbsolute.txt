@@ -1,0 +1,10 @@
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Sec003\bin\Debug\Rishav-Giri_Lab05_Sec003.exe.config
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Sec003\bin\Debug\Rishav-Giri_Lab05_Sec003.exe
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Sec003\bin\Debug\Rishav-Giri_Lab05_Sec003.pdb
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Sec003\obj\Debug\Rishav-Giri_Lab05_Sec003.csprojResolveAssemblyReference.cache
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Sec003\obj\Debug\Rishav_Giri_Lab05_Sec003.GenericLinearSearchMethodTestForm.resources
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Sec003\obj\Debug\Rishav_Giri_Lab05_Sec003.Properties.Resources.resources
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Sec003\obj\Debug\Rishav-Giri_Lab05_Sec003.csproj.GenerateResource.Cache
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Sec003\obj\Debug\Rishav-Giri_Lab05_Sec003.csproj.CoreCompileInputs.cache
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Sec003\obj\Debug\Rishav-Giri_Lab05_Sec003.exe
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Sec003\obj\Debug\Rishav-Giri_Lab05_Sec003.pdb

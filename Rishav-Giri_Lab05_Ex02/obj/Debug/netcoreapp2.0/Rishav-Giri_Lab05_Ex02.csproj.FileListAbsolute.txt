@@ -1,0 +1,11 @@
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex02\bin\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex02.deps.json
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex02\bin\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex02.runtimeconfig.json
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex02\bin\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex02.runtimeconfig.dev.json
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex02\bin\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex02.dll
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex02\bin\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex02.pdb
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex02\obj\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex02.csprojResolveAssemblyReference.cache
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex02\obj\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex02.csproj.CoreCompileInputs.cache
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex02\obj\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex02.AssemblyInfoInputs.cache
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex02\obj\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex02.AssemblyInfo.cs
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex02\obj\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex02.dll
+C:\Users\Rishav\Desktop\NewLab5\Rishav-Giri_Lab05_Ex01\Rishav-Giri_Lab05_Ex02\obj\Debug\netcoreapp2.0\Rishav-Giri_Lab05_Ex02.pdb
